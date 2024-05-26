@@ -4,4 +4,4 @@ As part of the DSSG Berlin Datathon 2024, the World Bank open data is used to an
 Dataset and other documents available at Google Drive: https://drive.google.com/drive/folders/1b5gCcj9D2xoBBsIP_E_-MVfTLqxUAnym?usp=sharing
 
 Dashboards and Apps:
-1. https://zany-orbit-vgr7p6pvgg63pqg.github.dev/
+1. [Demo Streamlit Dashboard](https://app-dssg-duppvf5addfsfw3vurycnk.streamlit.app/)
