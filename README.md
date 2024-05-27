@@ -4,4 +4,5 @@ As part of the DSSG Berlin Datathon 2024, the World Bank open data is used to an
 Dataset and other documents available at Google Drive: https://drive.google.com/drive/folders/1b5gCcj9D2xoBBsIP_E_-MVfTLqxUAnym?usp=sharing
 
 Dashboards and Apps:
-1. [Demo Streamlit Dashboard](https://app-dssg-duppvf5addfsfw3vurycnk.streamlit.app/)
+1. [Demo Streamlit Dashboard](https://app-dssg-duppvf5addfsfw3vurycnk.streamlit.app/) developed by Abhishek and Ishan running on [this GitHub Repository](https://github.com/a2subedi/streamlit-dssg)
+2. [Demo Streamlit Dashboard 2](https://aonhwqdzeqw424ry8rrspp.streamlit.app/) developed by Shacham
